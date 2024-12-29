@@ -1,8 +1,10 @@
+package basics;
+
 import java.util.Scanner; // Import Scanner class for user input
 
 public class Main {
 
-    // Main method - entry point of the program
+    // Basic.Main method - entry point of the program
     public static void main(String[] args) {
 
         // ---------------------------------------------
