@@ -31,7 +31,7 @@ public class Main {
 
         // Calling methods from the subclass and superclass
         Cat cat = new Cat();
-        cat.bark(); // Method from Cat class
         cat.eat();  // Method inherited from Animal class
+        cat.bark(); // Method from Cat class
     }
 }

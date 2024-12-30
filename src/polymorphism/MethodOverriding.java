@@ -1,7 +1,5 @@
 package polymorphism;
-
 // This is a method overriding polymorphism
-
 
 class Shape{
     void draw(){
@@ -36,5 +34,11 @@ public class MethodOverriding {
         Shape shape2 = new Rectangle();
         shape1.draw();
         shape2.draw();
+
+//        Rectangle rectangle = new Rectangle();
+//        Here Rectangle - specify the class name
+//        rectangle - reference variable
+//        new - it's keyword used to create a new object
+//        Rectangle() - This is the constructor call
     }
 }

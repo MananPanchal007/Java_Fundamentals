@@ -7,7 +7,7 @@ abstract class Shape {
 
     // Regular method
     public void color() {
-        System.out.println("Coloring the shape");
+        System.out.println("Coloring the shape.");
     }
 }
 
@@ -15,7 +15,7 @@ abstract class Shape {
 class Circle extends Shape {
     @Override
     void draw() {
-        System.out.println("Drawing a circle");
+        System.out.println("Drawing a circle.");
     }
 }
 

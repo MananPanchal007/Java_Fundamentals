@@ -3,8 +3,8 @@ package exceptionHandling;
 public class MyClass_02 {
 
     public static void main(String[] args) {
-//        System.out.println(m1());
-        System.out.println(m2());
+        System.out.println(m1());
+//        System.out.println(m2());
     }
 
 //    this code is written for example of "finally" and "throw" in exception handling
@@ -25,6 +25,7 @@ public class MyClass_02 {
 
     public static int m2() {
         try {
+            System.out.println(10 / 0);
             throw new ArithmeticException("Main reason nahi dunga, karle jo karna he");
         } catch (ArithmeticException e) {
             System.out.println(e.toString());

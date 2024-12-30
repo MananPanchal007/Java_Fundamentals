@@ -50,7 +50,8 @@ class Employee {
 
 public class Main {
     public static void main(String[] args) {
-        // Creating an Employee object
+
+        // Creating an Employee object by using the constructor
         Employee emp = new Employee("Manan", 22, 100000);
 
         // Accessing private variables through public methods

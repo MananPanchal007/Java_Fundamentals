@@ -131,7 +131,7 @@ public class Main {
         // While loop example
         int count = 0;
         while (count < 5) {
-            System.out.println("Hello");
+            System.out.println("Hello" + count);
             count++; // Incrementing count
         }
 
@@ -226,5 +226,4 @@ public class Main {
         }
         return -1; // Return -1 if the number 3 is not found (impossible in this example)
     }
-
 }
