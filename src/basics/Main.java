@@ -10,7 +10,7 @@ public class Main {
         // ---------------------------------------------
         // OUTPUT EXAMPLE
         // Uncomment to see the output
-        // System.out.println("Jay Yogeshwar");
+//         System.out.println("Jay Yogeshwar");
         // ---------------------------------------------
 
         // ---------------------------------------------

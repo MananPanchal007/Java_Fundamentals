@@ -25,7 +25,8 @@ class Employee {
 
     // Public setter method for age
     public void setAge(int age) {
-        if (age > 0) { // Simple validation
+        if (age > 0) {
+            // Simple validation
             this.age = age;
         }
     }

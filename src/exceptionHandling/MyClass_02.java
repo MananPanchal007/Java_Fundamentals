@@ -3,8 +3,8 @@ package exceptionHandling;
 public class MyClass_02 {
 
     public static void main(String[] args) {
-        System.out.println(m1());
-//        System.out.println(m2());
+//        System.out.println(m1());
+        System.out.println(m2());
     }
 
 //    this code is written for example of "finally" and "throw" in exception handling

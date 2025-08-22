@@ -19,7 +19,6 @@ public class joinDemo {
 }
 
 
-
 class joinThread extends Thread{
     @Override
     public void run() {

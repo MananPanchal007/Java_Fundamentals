@@ -1,5 +1,7 @@
-package exceptionHandling;//  In this code every method throws error on the parent method,
-//  so at the end default error handler (in this type of case JVM will handle) will handle this
+package exceptionHandling;
+
+//  In this code every method throws error on the parent method,
+//  so at the end 'default error handler' (in this type of case "JVM") will handle this
 
 public class MyClass_03 {
 

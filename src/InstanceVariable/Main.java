@@ -1,6 +1,9 @@
 package InstanceVariable;
 
 public class Main {
+    // This is an example of instance variable
+    // Instance variable is a variable that is declared in the class but outside the method, constructor, or block
+
     int a = 10;
     int b;
 
