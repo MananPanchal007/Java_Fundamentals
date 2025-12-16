@@ -10,7 +10,7 @@ public class Main {
         // ---------------------------------------------
         // OUTPUT EXAMPLE
         // Uncomment to see the output
-//         System.out.println("Jay Yogeshwar");
+         System.out.println("Jay Yogeshwar");
         // ---------------------------------------------
 
         // ---------------------------------------------
@@ -97,7 +97,7 @@ public class Main {
         // ---------------------------------------------
 
         // ---------------------------------------------
-        // ELSE IF STATEMENTS
+        // IF ELSE STATEMENTS
         int age = 17;
         if (age >= 18) {
             System.out.println("You are an adult.");
